@@ -105,7 +105,7 @@ headerLijst = []
 
 def main():
 
-    bestand = open('afvink5.txt','r')
+    bestand = open('Felis_catus.Felis_catus_8.0.cdna.all.fa','r')
     x = ''
     z = ''
     GClijst = []
